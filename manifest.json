@@ -1,0 +1,41 @@
+{
+ "latest": "0.6.3",
+ "notes": "What's new in 0.6.3\n- Adventure: no more fall damage. Dropping onto a girder is always safe (falling off the bottom of the screen still costs a heart).\n- Ladders: you now stop at the top and bottom of every ladder (let go and press again to keep climbing), and ladders on floors above each other are no longer stacked into one long-looking ladder.",
+ "files": [
+  {
+   "name": "Bolder.exe",
+   "size": 109268480,
+   "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+   "url": "https://github.com/rokheine91-bot/bolder-updates",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/bolder-updates/main/files/0.6.3/Bolder.exe.part00",
+    "https://raw.githubusercontent.com/rokheine91-bot/bolder-updates/main/files/0.6.3/Bolder.exe.part01"
+   ]
+  },
+  {
+   "name": "Bolder.pck",
+   "size": 25063664,
+   "sha256": "27bcefa371b659cdc226c89e5949b57ba3e05a28ac7569ce59b08cb833aef25b",
+   "url": "https://github.com/rokheine91-bot/bolder-updates",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/bolder-updates/main/files/0.6.3/Bolder.pck.part00"
+   ]
+  },
+  {
+   "name": "update.exe",
+   "size": 5312512,
+   "sha256": "28b0c96eeba1d8dcb2069dc3675f020f65e2a5a88feb8c69f3bf148ad4aacf32",
+   "url": "https://github.com/rokheine91-bot/bolder-updates",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/bolder-updates/main/files/0.6.3/update.exe.part00"
+   ]
+  },
+  {
+   "name": "Bolder-Setup.exe",
+   "size": 3812295,
+   "sha256": "8b000466440574da3b3e531d3bbd51ce801dc185f704f97012ac419a80cb9d9f",
+   "url": "https://raw.githubusercontent.com/rokheine91-bot/bolder-updates/main/installer/Bolder-Setup.exe"
+  }
+ ],
+ "sig": "pJg3mjVygZ657FfLxaEIhZq6ubTejkREXrW58SWhAx4k41jf2IutU1EdOgkq+2V41uyEH1V+MulDFOlnqt3KAA=="
+}
